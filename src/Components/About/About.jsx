@@ -15,7 +15,7 @@ const About = () => {
                             </div>
                             <div className="collapse-content">
                                 <p>Front End 2022-2023</p>
-                                <p>Back End 2023-Present</p>
+                                <p>Full Stack 2023-Present</p>
                             </div>
                         </div>
                         <div className="collapse bg-base-200 border-primary border-2 mb-5">
